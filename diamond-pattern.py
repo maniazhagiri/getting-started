@@ -1,4 +1,4 @@
-n=int(input("enter the number to diamond pattern :  "))
+n=int(input("enter the number for diamond pattern :  "))
 for i in range(n):
     j = n-i
     print(" "*j, " *"*i)
