@@ -1,0 +1,1 @@
+word_list = ["manikandan", "yugabharathi", "mounika", "gowri"]
